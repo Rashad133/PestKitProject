@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PestKitProject", "PestKitProject\PestKitProject.csproj", "{AB57CDC9-5531-4958-8FC2-00231E6B7BD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB57CDC9-5531-4958-8FC2-00231E6B7BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB57CDC9-5531-4958-8FC2-00231E6B7BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB57CDC9-5531-4958-8FC2-00231E6B7BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB57CDC9-5531-4958-8FC2-00231E6B7BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F263D553-D82C-4118-8BAD-EB8CCE89BEE8}
+	EndGlobalSection
+EndGlobal
